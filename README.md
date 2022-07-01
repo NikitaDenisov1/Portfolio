@@ -8,4 +8,4 @@
 
 | Название проекта | Было сделано | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Анализ игровой индустрии](https://github.com/NikitaDenisov1/Portfolio/tree/main/My_project) | Предобработка данных, нахождение актуального периода, графический анализ продаж игровых платформ, проверка гипотез | *pandas,  scipy, matplotlib, seaborn, plotly.express, datetime* 
+| [Анализ игровой индустрии](https://github.com/NikitaDenisov1/Portfolio/blob/main/My_project/mine_game_project.ipynb) | Предобработка данных, нахождение актуального периода, графический анализ продаж игровых платформ, проверка гипотез | *pandas,  scipy, matplotlib, seaborn, plotly.express, datetime* 
